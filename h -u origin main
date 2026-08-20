@@ -1,0 +1,17 @@
+[33m0bc5289[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Initial commit
+[33m06da780[m Stable dashboard and restored contentScript
+[33m95a88a1[m Merge pull request #9 from mini-project-b3/ai-hint-backend
+[33m1868d2a[m Added Gemini AI hint backend
+[33m9ef2171[m Merge pull request #8 from mini-project-b3/feature/swetha-frontend
+[33mb4688d0[m Merge pull request #7 from mini-project-b3/feature/scripting
+[33md90a799[m Merge remote-tracking branch 'origin/main' into feature/scripting
+[33m0a26f6a[m feat(extension): complete behavior tracking engine for DSA analytics
+[33me1eb60a[m Implemented dashboard popup analytics and AI hint system
+[33ma922778[m Merge pull request #5 from mini-project-b3/feature/analytics
+[33m503ccf0[m Implement analytics scoring and daily reporting
+[33mf942e8b[m Merge pull request #3 from mini-project-b3/feature/scripting
+[33mec4a007[m add persistent LeetCode session tracking and analytics data collection
+[33m73602dc[m folder structure changed and done service layer
+[33m96c7c85[m Merge pull request #1 from mini-project-b3/feature/scripting
+[33m38e72f3[m Done content scripting and activity trcaking
+[33m0b69a5a[m Initial project setup - frontend and backend structure
